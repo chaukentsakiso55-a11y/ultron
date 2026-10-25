@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+config/api_keys.json
+config/provider_secrets.json
+config/providers.json
+*.key
+*.pem
+*.p12
+*.log
+*.zip
